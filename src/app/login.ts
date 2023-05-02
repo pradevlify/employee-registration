@@ -1,0 +1,3 @@
+class ts {
+  number: string;
+}
