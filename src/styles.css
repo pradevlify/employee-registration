@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background: url(https://img.freepik.com/premium-vector/cosmetic-background-product-branding-packaging-presentation-geometry-form-square-molding_258787-1337.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

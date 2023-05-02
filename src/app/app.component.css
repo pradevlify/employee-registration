@@ -1,0 +1,27 @@
+.form-label {
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(17, 80, 82)
+}
+
+table,
+th,
+td {
+    border: 2px solid black
+}
+
+table {
+    background-color: black;
+    color: white;
+
+}
+
+td {
+    border-bottom: 2px solid rgba(233, 239, 237, 0.387);
+    text-align: center;
+
+}
+
+th {
+    background-color: burlywood;
+}
